@@ -23,9 +23,9 @@ int main() {
     // Imprime el valor que retornó funcion3()
     printf("v = %d\n", v);
 
-    z = funcion5(10);
+    o = funcion5(10);
     // Imprime el valor que retornó funcion3()
-    printf("z = %d\n", z);
+    printf("o = %d\n", o);
     
 
     return 0;
